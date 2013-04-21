@@ -11,5 +11,4 @@ build:
 	@echo "${HR}"
 	@echo "Up successfully built."
 	@echo "${HR}"
-	@echo "<3 @caarlos0"
 

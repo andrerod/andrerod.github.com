@@ -9,10 +9,20 @@ layout: layout
 
   <section class="byline">
     {{ page.date | date: "%B %e, %Y" }}
+
+    {% unless page.tags == empty %}
+      <ul class="tag_box inline">
+        <li><i class="icon-tags"></i></li>
+        {% assign tags_list = page.tags %}
+        {% include tags_list.html %}
+      </ul>
+    {% endunless %}
   </section>
 
   {{ content }}
+
   <div class="pull"></div>
+  <h2>Share</h2>
   {% include twitter.html %}
   <hr>
   {% include disqus.html %}
