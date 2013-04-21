@@ -36,7 +36,7 @@ GitGutter
 ![GitGutter](/images/posts/GitGutter.png)
 Notice the squares in the gutter area indicating which lines were changed
 
-Most projects that I contribute to today use git. Even if they don't, many times I setup a local git repository to keep track of the changes I make to then locally, in my computer, without having to rely on a remote server. GitGutter provides an integrated way of seeing each change you make right from the text editor.
+Most projects that I contribute to today use git. Even if they don't, more often than not, I setup a local git repository to keep track of the changes I make to them locally. GitGutter provides an integrated way of seeing each change right from the editor.
 
 SublimeLinter
 -------------

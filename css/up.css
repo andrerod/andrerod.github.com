@@ -3415,6 +3415,8 @@ div.top-banner #badge {
   border-width:1px;
   padding: 2px;
   background: #FFFFFF;
+  width: 100px;
+  height: 100px;
 }
 div.top-banner #name {
   position: absolute;
