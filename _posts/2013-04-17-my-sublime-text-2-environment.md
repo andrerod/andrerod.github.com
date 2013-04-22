@@ -27,6 +27,11 @@ Package Control
 
 I love this plugin because it provides me an easy to use way to explore and manage (both install and uninstall) my Sublime Text plugins. Because of this, it's usually the first one that I install.
 
+Git
+---
+
+[Git](https://github.com/kemayo/sublime-text-2-git/wiki) Provides, like the name says, git integration.
+
 GitGutter
 ---------
 
