@@ -68,4 +68,4 @@ Node.js is great but being a functional language, made asynchronous through call
 Others
 ------
 
-The list of sublime plugins is already big and it keeps on growing as the community builds more of them. Do you others that you think that are usefull as well when doing Javascript / node.js development ? Drop me a comment and I'll gladly add it to the list. :)
+The list of sublime plugins is already big and it keeps on growing as the community builds more of them. Do you know others that you think that are usefull when doing Javascript / node.js development ? Drop me a comment and I'll gladly add it to the list. :)
