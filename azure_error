@@ -1,0 +1,13 @@
+Fri May 03 2013 16:08:26 GMT+0100 (WEST):
+{ [Error: Cannot find module '../util/channel'] code: 'MODULE_NOT_FOUND' }
+Error: Cannot find module '../util/channel'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/usr/local/lib/node_modules/azure-cli/lib/commands/deployment._js:19:15)
+    at Module._compile (module.js:456:26)
+    at Module.pModule._compile (/usr/local/lib/node_modules/azure-cli/node_modules/streamline/lib/compiler/register.js:44:15)
+    at Object.streamliners._js [as ._js] (/usr/local/lib/node_modules/azure-cli/node_modules/streamline/lib/compiler/underscored.js:28:11)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
