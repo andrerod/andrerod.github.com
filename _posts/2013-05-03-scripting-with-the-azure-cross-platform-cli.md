@@ -2,6 +2,7 @@
 layout: post
 title: "Scripting with the azure cross platform CLI"
 category: posts
+tags: [ "CLI", "Windows Azure", "scripting", "bash" ]
 ---
 
 Windows Azure provides you a couple of ways to manage the services you choose to run in it. The portal is the natural choice for many tasks, however, more advanced users (read, IT pros) typically are more confortable in a command line environment.
